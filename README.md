@@ -1,2 +1,2 @@
 # KazMalhotra.github.io
-kazmalhutra.github.io
+kazmalhotra.github.io
