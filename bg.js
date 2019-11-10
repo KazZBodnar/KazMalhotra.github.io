@@ -35,3 +35,5 @@ function draw() {
   scale(s);
   rect(0, 0, 50, 50);
 }
+setup();
+draw();
