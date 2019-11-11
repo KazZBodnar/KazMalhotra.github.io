@@ -1,3 +1,6 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.8.0/p5.js"></script>
+
+<script>
 //https://p5js.org/examples/transform-scale.html
 let a = 0.0;
 let s = 0.0;
@@ -37,3 +40,4 @@ function draw() {
 }
 setup();
 draw();
+</script>
