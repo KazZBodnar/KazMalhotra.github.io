@@ -1,0 +1,16 @@
+
+language: 'node_js'
+node_js: '8'
+
+# Script that is run before the script phase
+before_script:
+  - yarn build
+
+# Deployment information
+deploy:
+  provider: pages # Tell Travis we want to deploy to Github Pages
+  skip-cleanup: true
+
+
+  repo: KazMalhotra/kazmalhotra.github.io #https://kazmal.tech
+ 
