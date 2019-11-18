@@ -6,10 +6,8 @@
     "xterm": "^4.2.0-vscode1"
   },
 
-#  "devDependencies": {},
- # "scripts": {
-  #  "test": "jest"
-  #    },
+  "devDependencies": {},
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kazmalhotra/kazmalhotra.github.io.git"
