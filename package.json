@@ -14,7 +14,7 @@
     "url": "git+https://github.com/kazmalhotra/kazmalhotra.github.io.git"
   },
   "author": "Kaz Malhotra",
-  "license": "ISC",
+  "license": "Apache 2.0",
   "bugs": {
     "url": "https://github.com/kazmalhotra/kazmalhotra.github.io/issues"
   },
