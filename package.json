@@ -7,7 +7,10 @@
   },
 
   "devDependencies": {},
-  "scripts": {},
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "jest"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kazmalhotra/kazmalhotra.github.io.git"
