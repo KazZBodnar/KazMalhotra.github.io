@@ -9,7 +9,7 @@
 #  "devDependencies": {},
  # "scripts": {
   #  "test": "jest"
-  #},
+  #    },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kazmalhotra/kazmalhotra.github.io.git"
