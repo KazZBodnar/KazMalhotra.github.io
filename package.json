@@ -5,10 +5,11 @@
   "dependencies": {
     "xterm": "^4.2.0-vscode1"
   },
-  "devDependencies": {},
-  "scripts": {
-    "test": "jest"
-  },
+
+#  "devDependencies": {},
+ # "scripts": {
+  #  "test": "jest"
+  #},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kazmalhotra/kazmalhotra.github.io.git"
