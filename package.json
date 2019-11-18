@@ -1,0 +1,23 @@
+ "name": "kazmalhotra.github.io",
+  "version": "0.0.5",
+  "description": "My personal website",
+  "main": "index.html",
+  "dependencies": {
+    "xterm": "^4.2.0-vscode1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazmalhotra/kazmalhotra.github.io.git"
+  },
+  "author": "Kaz Malhotra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kazmalhotra/kazmalhotra.github.io/issues"
+  },
+  "homepage": "https://github.com/kazmalhotra/kazmalhotra.github.io#readme"
+}
+
