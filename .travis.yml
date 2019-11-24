@@ -2,10 +2,6 @@
 language: php
 #php: 5.5
 
-# Script that is run before the script phase
-before_script:
-  - yarn build
-
 # Deployment information
 deploy:
   provider: pages # Tell Travis we want to deploy to Github Pages
