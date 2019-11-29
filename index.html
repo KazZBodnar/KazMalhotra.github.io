@@ -99,6 +99,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="pages/contact.html">Contact</a>
                 </li>
+                 <!--li class="nav-item">
+                    <a class="nav-link" href="#heading">Heading</a>
+                </li-->
             </ul>
         </div>
     </div>
@@ -130,14 +133,14 @@
 <!-- Page Content -->
 <section class="py-5">
   <div class="container">
-    <h2 class="font-weight-light">About</h2>
-    <p>My name is Kaz Malhotra, and I am a student at Catlin Gabel School. I am also an instructor at FreeGeek, and co-teach blender and linux. I use archlinux KDE and like Debian.</p>
+    <h2 id="heading" class="font-weight-light">Heading</h2>
+    <p>Some text</p>
 
 
          
       <button class="button button3" onclick="window.location.href = 'https://kazmal.tech/dino';" >Go to my stupid dinosaur jokes</button>
  <button class="button button3" onclick="window.location.href = 'https://kazmal.tech/blog';" >Go to my blog template</button>
-  <button class="button button3" onclick="window.location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';" >Click Me!</button>
+  <button class="button button3" onclick="window.location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';">Click Me!</button>
  <div class center>
 
   </div>
@@ -166,18 +169,25 @@ body {
    <script src=”https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
    <script src=”scripts.js”></script>
 </body>
-<footer>
-    <div class="container-fluid padding">
-        <div class="row text-center">
-            <div class="col-12">
-          <!--i class="fab fa-github"-->     <div class="footer"> <a href="https://github.com/kazmalhotra" target="_blank">Github<!--/i--></a><br><br>
-             <!--i class="far fa-envelope"-->   <a href="pages/contact.html">Contact<!--/i--></a>
+
+  <footer id="sticky-footer" class="py-4 bg-dark text-white-50">
+    <div class="container text-center">
+      <style>
+        #sticky-footer {
+  flex-shrink: 0;
+}
+</style>
+
+    <div class="footer"> <a href="https://github.com/kazmalhotra" target="_blank">Github |</a> 
+            <a href="pages/contact.html" target="_blank"> Contact<!--/i--></a>
 
              
                 <h5>&copy; Kaz Malhotra 2019</h5>
-           </div>
-            </div>
-        </div>
+
     </div>
-</footer>
+  </footer>
+
+
+
+
 </html>
