@@ -1,6 +1,6 @@
 # Group 1
 User-agent: Googlebot
-Disallow: /assets/img
+Disallow: /assets/
 Allow: /
 
 # Group 2
