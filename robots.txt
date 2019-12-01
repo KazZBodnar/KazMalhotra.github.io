@@ -6,3 +6,5 @@ Allow: /
 # Group 2
 User-agent: *
 Allow: /
+
+Sitemap: http://kazmal.tech/sitemap.xml
