@@ -2,6 +2,9 @@
 User-agent: Googlebot
 Disallow: /assets/
 Allow: /
+Allow: /calc
+Allow: /dino
+Allow: /pages
 
 # Group 2
 User-agent: *
