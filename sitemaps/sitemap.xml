@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://kazmal.tech/</loc>
+  <lastmod>2019-12-11T00:45:22+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://kazmal.tech/pages/projects.html</loc>
+  <lastmod>2019-12-11T00:45:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kazmal.tech/pages/contact.html</loc>
+  <lastmod>2019-12-11T00:45:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kazmal.tech/blog/</loc>
+  <lastmod>2019-11-29T18:55:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kazmal.tech/dino/</loc>
+  <lastmod>2019-12-09T19:39:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kazmal.tech/french/</loc>
+  <lastmod>2019-12-11T00:41:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kazmal.tech/utils/</loc>
+  <lastmod>2019-12-10T21:28:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kazmal.tech/blog/posts/1.html</loc>
+  <lastmod>2019-11-29T18:55:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kazmal.tech/utils/calc.html</loc>
+  <lastmod>2019-12-10T21:28:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kazmal.tech/tone/</loc>
+  <lastmod>2019-12-10T21:29:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
