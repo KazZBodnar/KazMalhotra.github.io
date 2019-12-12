@@ -2,6 +2,7 @@
 User-agent: Googlebot
 Disallow: /assets/
 Disallow: /pgp.txt
+Disallow: /tyler/
 Allow: /
 Allow: /utils/
 Allow: /tone/
